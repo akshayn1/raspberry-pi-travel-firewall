@@ -240,6 +240,13 @@ Immediately set password:
 ```bash
 passwd
 ```
+<p align="center">
+  <img src="images/open_wrt_sshlogin.png" width="850">
+  <br>
+  <b>Figure:</b> Raspberry Pi Travel Firewall Architecture
+</p>
+
+---
 
 ---
 
